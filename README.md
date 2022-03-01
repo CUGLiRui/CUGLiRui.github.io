@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/CUGLiRui/CUGLiRui.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Me.jpg](https://s2.loli.net/2022/03/01/acsEhZnplbV8JAD.jpg)
 
 ### Markdown
 
