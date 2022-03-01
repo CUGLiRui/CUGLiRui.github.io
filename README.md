@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Personal Academic Pages
 ## About Me
 
-![Me.jpg](https://s2.loli.net/2022/03/01/acsEhZnplbV8JAD.jpg)
+![Me.jpg](https://s2.loli.net/2022/03/01/acsEhZnplbV8JAD.jpg) I received
 
 ### Markdown
 
